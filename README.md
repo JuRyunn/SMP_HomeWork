@@ -2,7 +2,8 @@
 
 ## In-Class Homework Week 1 Day 1 #1
 Android Studio 구동 확인
-![11](https://user-images.githubusercontent.com/79950504/110573758-2d9d5180-819f-11eb-9569-6186c7c9e1a9.PNG)
+![1234](https://user-images.githubusercontent.com/79950504/110774643-6291cd00-82a1-11eb-8504-1173865043e6.PNG)
+
 
 
 
