@@ -16,6 +16,6 @@ Change Screen Output </br>
 GitHub Screen for Modified Files </br>
 ![Modification2](https://user-images.githubusercontent.com/79950504/110745589-d2db2700-827e-11eb-8697-c5a63129a6a6.PNG)
 
-## In-Class Homework Week 3 Day 1 #1
+## In-Class Homework Week 3 Day 1 #1 [21.03.17]
 Android Studio LifeCycle  </br>
 https://www.youtube.com/watch?v=Qj7Svu89ivw
