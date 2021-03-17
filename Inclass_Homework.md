@@ -18,4 +18,4 @@ GitHub Screen for Modified Files </br>
 
 ## In-Class Homework Week 3 Day 1 #1 [21.03.17]
 Android Studio LifeCycle  </br>
-https://youtu.be/khjP48-NIi8
+https://www.youtube.com/watch?v=UkYBmocmQsM
